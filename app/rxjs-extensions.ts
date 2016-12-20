@@ -1,6 +1,9 @@
 /**
  * Created by piggs on 2016/12/20.
  */
+/**
+ * 引入解决routing缺少的问题
+ */
 // Observable class extensions
 import 'rxjs/add/observable/of';
 import 'rxjs/add/observable/throw';
